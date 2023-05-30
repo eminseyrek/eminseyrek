@@ -5,7 +5,8 @@
 
 ÖĞRENDİĞİM DİLLER:                    
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" /> <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" /> <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/javascript/javascript.png" />                      
-
+<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eminseyrek_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
+</a>
 
 
 
