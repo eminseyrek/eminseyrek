@@ -4,8 +4,7 @@
 🖊HALA KENDİMİ BU ALANLARDA GELİŞTİRMEYE VE ÖĞRENMEYE DEVAM ETMEKTEYİM.🖊
 
 ÖĞRENDİĞİM DİLLER:
-https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/javascript/javascript.png https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png
-
+[<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />][flutter] [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python] [<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/javascript/javascript.png" />][javascript]
 
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=eminseyrek&show_icons=true&theme=gradient) 
