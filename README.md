@@ -21,10 +21,7 @@
 Merhaba, ben **Emin Seyrek**.  
 **Sivas Cumhuriyet Üniversitesi Bilişim Sistemleri ve Teknolojileri** 4. sınıf öğrencisiyim. Profesyonel olarak **iOS uygulama geliştirme** alanına odaklanıyor, Swift ve Apple ekosistemi üzerinde projeler geliştiriyorum.
 
-Kod geliştirirken **MVVM mimarisi**, **temiz kod prensipleri** ve **modern kullanıcı deneyimi** odaklı yaklaşımlar benimsiyorum.
-
-🎯 Hedefim:  
-Mobil dünyada **yüksek kaliteli ve kullanıcı odaklı uygulamalar geliştiren bir iOS Developer** olmak.
+Kod geliştirirken **MVVM**, **temiz kod**, **modern UI/UX** odağını ön planda tutarım.
 
 ---
 
@@ -33,6 +30,77 @@ Mobil dünyada **yüksek kaliteli ve kullanıcı odaklı uygulamalar geliştiren
 | Alan | Seviye | Teknolojiler |
 | :--- | :---: | :--- |
 | **iOS Development** | ⭐⭐⭐⭐☆ | Swift, SwiftUI, UIKit, Xcode |
-| **Web & Scripting** | ⭐⭐⭐☆☆ | JavaScript, TypeScript, Node.js |
+| **Web & Scripting** | ⭐⭐⭐☆☆ | JavaScript, TypeScript |
 | **Versiyon Kontrol** | ⭐⭐⭐⭐⭐ | Git, GitHub, GitLab |
-| **Tasarım** | ⭐⭐⭐☆☆ | F
+| **Tasarım** | ⭐⭐⭐☆☆ | Figma, HIG |
+
+---
+
+## 📊 GitHub İstatistikleri
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=eminseyrek&show_icons=true&theme=transparent&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eminseyrek&layout=compact&theme=transparent" height="170"/>
+
+</p>
+
+---
+
+## 📈 Aktivite Grafiği
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eminseyrek&theme=github-light"/>
+</p>
+
+---
+
+## 🏆 Başarı & Rozetler
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=eminseyrek&theme=flat&margin-w=10&margin-h=10"/>
+</p>
+
+---
+
+## ⏳ Çalışma Düzeni (Takvim)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=eminseyrek&theme=transparent"/>
+</p>
+
+---
+
+## 🚀 Projelerim
+| Proje | Teknolojiler | Durum |
+| :--- | :--- | :--- |
+| **iOS E-Commerce Platform** | Swift, SwiftUI, Firebase | ✅ Tamamlandı |
+| **Weather Forecast App** | Swift, OpenWeather API | 🛠 Devam Ediyor |
+| **TypeScript Portfolio** | React, TypeScript | 🌍 Yayında |
+
+---
+
+## 📬 İletişim
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/emin-s-b894a1243/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:eminseyrekk48@gmail.com">
+  <img src="https://img.shields.io/badge/Eposta-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/eminseyrek">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>Son güncelleme: 2026</i>
+</p>
