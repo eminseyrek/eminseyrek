@@ -1,44 +1,38 @@
-## 📊 GitHub İstatistikleri
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0A66C2&height=150&section=header&text=Emin%20Seyrek&fontSize=48&fontAlignY=38&animation=fadeIn" />
+</p>
 
 <p align="center">
-
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=eminseyrek&show_icons=true&theme=transparent&hide_border=false&rank_icon=github" 
-       height="165"
-/>
-
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=eminseyrek&layout=compact&theme=transparent&hide_border=false"
-       height="165"
-/>
-
+  <a href="https://www.linkedin.com/in/emin-s-b894a1243/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:eminseyrekk48@gmail.com">
+    <img src="https://img.shields.io/badge/Eposta-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/eminseyrek">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 Projelerim
-| Proje | Teknolojiler | Durum |
-| :--- | :--- | :--- |
-| **iOS E-Commerce Platform** | Swift, SwiftUI, Firebase | ✅ Tamamlandı |
-| **Weather Forecast App** | Swift, OpenWeather API | 🛠 Devam Ediyor |
-| **TypeScript Portfolio** | React, TypeScript | 🌍 Yayında |
+## 👨🏻‍💻 Hakkımda
+
+Merhaba, ben **Emin Seyrek**.  
+**Sivas Cumhuriyet Üniversitesi Bilişim Sistemleri ve Teknolojileri** 4. sınıf öğrencisiyim. Profesyonel olarak **iOS uygulama geliştirme** alanına odaklanıyor, Swift ve Apple ekosistemi üzerinde projeler geliştiriyorum.
+
+Kod geliştirirken **MVVM mimarisi**, **temiz kod prensipleri** ve **modern kullanıcı deneyimi** odaklı yaklaşımlar benimsiyorum.
+
+🎯 Hedefim:  
+Mobil dünyada **yüksek kaliteli ve kullanıcı odaklı uygulamalar geliştiren bir iOS Developer** olmak.
 
 ---
 
-## 📬 İletişim
+## 🛠 Teknolojiler & Yetenekler
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/emin-s-b894a1243/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:eminseyrekk48@gmail.com">
-  <img src="https://img.shields.io/badge/Eposta-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/eminseyrek">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+| Alan | Seviye | Teknolojiler |
+| :--- | :---: | :--- |
+| **iOS Development** | ⭐⭐⭐⭐☆ | Swift, SwiftUI, UIKit, Xcode |
+| **Web & Scripting** | ⭐⭐⭐☆☆ | JavaScript, TypeScript, Node.js |
+| **Versiyon Kontrol** | ⭐⭐⭐⭐⭐ | Git, GitHub, GitLab |
+| **Tasarım** | ⭐⭐⭐☆☆ | F
