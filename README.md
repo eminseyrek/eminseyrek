@@ -1,56 +1,88 @@
-# 👋 Merhaba, Ben Emin Seyrek! 🚀
-
-### 📱 iOS Developer | Sivas Cumhuriyet Üniversitesi - Bilişim Sistemleri ve Teknolojileri
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=eminseyrek&label=Profil%20Görüntüleme&color=0e76a8&style=flat" alt="eminseyrek" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=Emin%20Seyrek&fontSize=70&animation=fadeIn&fontAlignY=38" />
 </p>
-
----
-
-### 💫 Hakkımda
-
-Sivas Cumhuriyet Üniversitesi'nde 4. sınıf öğrencisiyim. Mobil uygulama geliştirme dünyasına, özellikle de **iOS Development** tarafına tutkuyla bağlıyım. Swift ile modern ve kullanıcı dostu uygulamalar inşa ederken, TypeScript ve JavaScript ekosistemiyle de projelerimi zenginleştiriyorum.
-
-- 🛠️ Şu an **Swift** ve **SwiftUI** üzerine derinleşiyorum.
-- 👨‍💻 Birçok mobil ve web tabanlı proje geliştirdim.
-- 🎓 Sürekli öğrenmeye ve yeni teknolojileri keşfetmeye odaklıyım.
-- 🎯 Hedefim: Dünya standartlarında iOS uygulamaları geliştirmek.
-
----
-
-### 🛠️ Teknolojiler & Yetenekler
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/SwiftUI-007ACC?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-#### 📊 Yetkinlik Seviyelerim
-- **Swift / SwiftUI:** `██████▒▒▒▒` %60
-- **JavaScript / TypeScript:** `█████▒▒▒▒▒` %50
-
----
-
-### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eminseyrek&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eminseyrek&layout=compact&theme=tokyonight&langs_count=6" />
+  <a href="https://www.linkedin.com/in/emin-s-b894a1243/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:eminseyrekk48@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 📫 Bana Ulaşın!
+### 🚀 Hakkımda
 
-<p align="left">
-<a href="https://www.linkedin.com/in/emin-s-b894a1243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emin seyrek" height="30" width="40" /></a>
-<a href="mailto:eminseyrekk48@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="eminseyrekk48@gmail.com" height="30" width="40" /></a>
+**Sivas Cumhuriyet Üniversitesi** Bilişim Sistemleri ve Teknolojileri 4. sınıf öğrencisiyim. Mobil dünyanın dinamizmine kapılmış, özellikle **iOS ekosisteminde** inovatif çözümler üretmeye odaklanmış bir geliştiriciyim. 
+
+- 🍎 **iOS Geliştirme:** Swift ve SwiftUI ile modern arayüzler.
+- 🌐 **Web Teknolojileri:** TypeScript ve JavaScript ile dinamik yapılar.
+- 📈 **Sürekli Gelişim:** Her gün yeni bir API, her gün yeni bir mimari (MVVM, VIPER).
+- 🛠️ **Proje Deneyimi:** 50'den fazla küçük ve orta ölçekli uygulama/script denemesi.
+
+---
+
+### 💻 Teknoloji Çantam (Tech Stack)
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=swift" width="40" height="40" alt="Swift" />
+      <br />Swift
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" />
+      <br />TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
+      <br />JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=apple" width="40" height="40" alt="iOS" />
+      <br />iOS Dev
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
+      <br />Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
+      <br />Figma
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Aktivite Verileri
+
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=eminseyrek&show_icons=true&theme=radical&rank_icon=github&display_format=v2" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=eminseyrek&theme=radical" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eminseyrek&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-### ⚡ Eğlenceli Bir Bilgi
-`While (alive) { eat(); sleep(); code(); repeat(); }`
+### 🏆 Öne Çıkan Projeler (Sneak Peek)
+
+| Proje Adı | Teknoloji | Durum |
+| :--- | :---: | :---: |
+| **iOS E-Commerce UI** | Swift / SwiftUI | ✅ Tamamlandı |
+| **Weather App v2** | Swift / API | 🏗️ Geliştiriliyor |
+| **Portfolio Website** | TS / Next.js | ✅ Yayında |
+
+---
+
+### ✍️ Blog ve Paylaşımlar
+> *"Kod yazmak sadece bir iş değil, karmaşık problemleri sanata dönüştürme biçimidir."*
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eminseyrek&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eminseyrek/eminseyrek/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
