@@ -39,27 +39,31 @@
 <br>Swift
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=apple" width="48" height="48" alt="iOS" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn1TRltqzNicebAOcK_8t53eWwbFC-eQPUsw&s" width="48" height="48" alt="iOS" />
 <br>iOS
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=xcode" width="48" height="48" alt="Xcode" />
+<img src="https://developer.apple.com/assets/elements/icons/xcode-s/xcode-s-256x256_2x.png" width="48" height="48" alt="Xcode" />
 <br>Xcode
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br>Git
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-<br>GitHub
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
 <br>React Native
 </td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=expo" width="48" height="48" alt="Expo" />
+<br>Expo
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
 </tr>
 <tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br>GitHub
+</td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
 <br>JavaScript
@@ -89,7 +93,6 @@
 <img src="https://img.shields.io/badge/Swift-85%25-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
 <img src="https://img.shields.io/badge/React_Native-40%25-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Version_Control-95%25-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/UI_UX_Design-70%25-FF61F6?style=for-the-badge&logo=figma&logoColor=white" />
 
 </div>
 
@@ -99,17 +102,34 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eminseyrek&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/eminseyrek)
+<a href="https://github.com/eminseyrek">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eminseyrek&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eminseyrek&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=eminseyrek&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/eminseyrek)
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eminseyrek&layout=compact&theme=radical&hide_border=true)](https://github.com/eminseyrek)
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eminseyrek&theme=algolia&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
 
+## Kodlama Aktivitesi
 
+<div align="center">
+
+<!--START_SECTION:waka-->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eminseyrek&theme=algolia" alt="Activity Graph"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eminseyrek&theme=algolia" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eminseyrek&theme=algolia" alt="Most Commit Language" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eminseyrek&theme=algolia" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eminseyrek&theme=algolia&utcOffset=3" alt="Productive Time" />
+<!--END_SECTION:waka-->
+
+</div>
 
 ---
 
