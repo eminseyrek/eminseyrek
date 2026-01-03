@@ -1,58 +1,70 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=0077B5&height=150&section=header&text=Emin%20Seyrek&fontSize=50&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0A66C2&height=150&section=header&text=Emin%20Seyrek&fontSize=48&fontAlignY=38&animation=fadeIn" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/emin-s-b894a1243/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:eminseyrekk48@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/eminseyrek">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### Profesyonel Özet
+## 👨🏻‍💻 Hakkımda
 
-Sivas Cumhuriyet Üniversitesi Bilişim Sistemleri ve Teknolojileri bölümünde 4. sınıf öğrencisiyim. iOS uygulama geliştirme süreçlerine odaklanarak Swift ve Apple ekosistemi üzerine profesyonel yetkinlik kazanmaktayım. Modern yazılım mimarileri (MVVM) ve temiz kod prensipleri çerçevesinde projeler üretmekteyim.
+Merhaba, ben **Emin Seyrek**.  
+**Sivas Cumhuriyet Üniversitesi Bilişim Sistemleri ve Teknolojileri** 4. sınıf öğrencisiyim. Profesyonel olarak **iOS uygulama geliştirme** alanına odaklanıyor, Swift ve Apple ekosistemi üzerinde projeler geliştiriyorum.
 
-* **Uzmanlık Alanı:** iOS Development (Swift & SwiftUI)
-* **Destekleyici Teknolojiler:** TypeScript, JavaScript, Git
-* **Eğitim:** Bilişim Sistemleri ve Teknolojileri (Lisans)
+Kod geliştirirken **MVVM mimarisi**, **temiz kod prensipleri** ve **modern kullanıcı deneyimi** odaklı yaklaşımlar kullanıyorum.
 
----
-
-### Teknik Yetkinlikler
-
-| Teknoloji | Seviye | İlgili Araçlar |
-| :--- | :--- | :--- |
-| **iOS Development** | %60 | Swift, SwiftUI, UIKit, Xcode |
-| **Web & Scripting** | %50 | JavaScript, TypeScript, Node.js |
-| **Versiyon Kontrol** | %80 | Git, GitHub, GitLab |
-| **Tasarım** | %40 | Figma, Human Interface Guidelines |
+🎯 Hedefim:  
+Mobil dünyada **yüksek kaliteli ve kullanıcı odaklı uygulamalar geliştiren bir iOS Developer** olmak.
 
 ---
 
-### GitHub İstatistikleri
+## 🛠 Teknolojiler & Yetenekler
+
+| Alan | Seviye | Teknolojiler |
+| :--- | :---: | :--- |
+| **iOS Development** | ⭐⭐⭐⭐☆ | Swift, SwiftUI, UIKit, Xcode |
+| **Web & Scripting** | ⭐⭐⭐☆☆ | JavaScript, TypeScript, Node.js |
+| **Versiyon Kontrol** | ⭐⭐⭐⭐⭐ | Git, GitHub, GitLab |
+| **Tasarım** | ⭐⭐⭐☆☆ | Figma, HIG |
+
+---
+
+## 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=eminseyrek&show_icons=true&theme=flat&hide_border=false" alt="Genel İstatistikler" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eminseyrek&layout=compact&theme=flat&hide_border=false" alt="En Çok Kullanılan Diller" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eminseyrek&show_icons=true&theme=default&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eminseyrek&layout=compact&hide_border=false" />
 </p>
 
 ---
 
-### Portfolyo ve Projeler
+## 🚀 Projelerim
 
-| Proje İsmi | Kullanılan Teknolojiler | Durum |
+| Proje | Teknolojiler | Durum |
 | :--- | :--- | :--- |
-| **iOS E-Commerce Platform** | Swift, SwiftUI, Firebase | Tamamlandı |
-| **Weather Forecast System** | Swift, OpenWeather API | Geliştirme Aşamasında |
-| **TypeScript Portfolio** | TS, React, CSS3 | Yayında |
+| **iOS E-Commerce Platform** | Swift, SwiftUI, Firebase | ✅ Tamamlandı |
+| **Weather Forecast App** | Swift, OpenWeather API | 🛠 Devam Ediyor |
+| **TypeScript Portfolio** | React, TypeScript | 🌍 Yayında |
 
 ---
 
-<p align="right">
+## 📫 İletişim
+
+💼 LinkedIn: **/emin-s-b894a1243/**  
+📩 E-posta: **eminseyrekk48@gmail.com**
+
+---
+
+<p align="center">
   <i>Son güncelleme: 2026</i>
 </p>
