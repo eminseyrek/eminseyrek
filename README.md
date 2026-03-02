@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  ### iOS Geliştirici | Swift Uzmanı | Yazılım Mühendisi
+  ### iOS Geliştirici | Swift Uzmanı | Mobil Uygulama Geliştirici
   
   <a href="https://www.linkedin.com/in/emin-s-b894a1243/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
